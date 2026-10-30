@@ -1,0 +1,23 @@
+{
+  "Title": "LBOL PvP",
+  "Description": "Team PvP testing mod for LBOL Multiplayer.",
+  "Brief": "Team PvP testing for LBOL Multiplayer.",
+  "Changelog": [
+    "0.1.6: Cold upgrades only its previous hit; Poison merges into one blockable accurate hit; native outgoing intention widgets appear above the player.",
+    "0.1.5: Queue blockable Poison and Cold hits and exempt direct damage from Firepower reduction.",
+    "0.1.4: Fixed Act 2 opponent preload and added ordered deferred attacks in solo testing."
+  ],
+  "Version": "0.1.6",
+  "Author": "Unknown",
+  "Tags": [
+    "Mod",
+    "Gameplay"
+  ],
+  "PublishedFileId": 0,
+  "AuthorId": 0,
+  "GUID": "lbol.pvp.teams",
+  "Dependencies": [
+    "rokk.lbol.gameplay.lbolmp"
+  ],
+  "LastUpdateTime": 0
+}

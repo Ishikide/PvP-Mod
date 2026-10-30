@@ -1,0 +1,10 @@
+{
+  "name": "LBOLPvP",
+  "version_number": "0.1.6",
+  "website_url": "",
+  "description": "Team PvP testing mod for LBOL Multiplayer.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "Rokk-LBOLMP-0.12.12"
+  ]
+}
